@@ -1,3 +1,4 @@
+word,category
 2g1c,100
 2 girls 1 cup,100
 acrotomophilia,100
@@ -1067,6 +1068,7 @@ anti-authority,600
 race war,600
 kill the enemy,600
 terrorize,600
+terror,600
 subversive,600
 political extremism,600
 extremist views,600
@@ -1371,129 +1373,129 @@ computer virus,800
 packet injection,800
 web scraping,800
 remote access,800
-apple	0
-banana	0
-butterfly	0
-chocolate	0
-candy	0
-cookie	0
-daisy	0
-elephant	0
-friendship	0
-giggle	0
-goodness	0
-happiness	0
-nice	0
-joy	0
-kindness	0
-laughter	0
-marshmallow	0
-nest	0
-orchestra	0
-parrot	0
-pencil	0
-puppy	0
-rainbow	0
-safety	0
-sunshine	0
-teddy	0
-unicorn	0
-wonder	0
-adventure	0
-balloon	0
-castle	0
-discovery	0
-firefly	0
-glow	0
-harbor	0
-icecream	0
-jigsaw	0
-kite	0
-lantern	0
-magic	0
-nature	0
-open	0
-peaceful	0
-quiet	0
-reading	0
-story	0
-trust	0
-understanding	0
-vacation	0
-whale	0
-xylophone	0
-yoga	0
-zebra	0
-amazing	0
-brave	0
-cheerful	0
-delight	0
-eager	0
-friendly	0
-gentle	0
-helpful	0
-imaginative	0
-joyful	0
-kind	0
-lovely	0
-mindful	0
-nice	0
-optimistic	0
-playful	0
-quirky	0
-respectful	0
-smiling	0
-thoughtful	0
-uplifting	0
-vibrant	0
-warm	0
-xoxo	0
-yummy	0
-zealous	0
-rhyme	0
-rhymes	0
-nursery	0
-lullaby	0
-singalong	0
-baby shark	0
-cartoon	0
-storybook	0
-playtime	0
-fun	0
-games	0
-learning	0
-dance	0
-music	0
-smiling	0
-puppets	0
-happy tunes	0
-playing	0
-running	0
-jumping	0
-drawing	0
-singing	0
-dancing	0
-laughing	0
-helping	0
-sharing	0
-reading	0
-writing	0
-building	0
-exploring	0
-creating	0
-painting	0
-smiling	0
-swimming	0
-climbing	0
-skipping	0
-learning	0
-growing	0
-caring	0
-hugging	0
-cheering	0
-cryptocurrency	200
-crypto	200
-cryptocurrencies	200
-testicles	100
-like	0
-liking	0
+apple,0
+banana,0
+butterfly,0
+chocolate,0
+candy,0
+cookie,0
+daisy,0
+elephant,0
+friendship,0
+giggle,0
+goodness,0
+happiness,0
+nice,0
+joy,0
+kindness,0
+laughter,0
+marshmallow,0
+nest,0
+orchestra,0
+parrot,0
+pencil,0
+puppy,0
+rainbow,0
+safety,0
+sunshine,0
+teddy,0
+unicorn,0
+wonder,0
+adventure,0
+balloon,0
+castle,0
+discovery,0
+firefly,0
+glow,0
+harbor,0
+icecream,0
+jigsaw,0
+kite,0
+lantern,0
+magic,0
+nature,0
+open,0
+peaceful,0
+quiet,0
+reading,0
+story,0
+trust,0
+understanding,0
+vacation,0
+whale,0
+xylophone,0
+yoga,0
+zebra,0
+amazing,0
+brave,0
+cheerful,0
+delight,0
+eager,0
+friendly,0
+gentle,0
+helpful,0
+imaginative,0
+joyful,0
+kind,0
+lovely,0
+mindful,0
+nice,0
+optimistic,0
+playful,0
+quirky,0
+respectful,0
+smiling,0
+thoughtful,0
+uplifting,0
+vibrant,0
+warm,0
+xoxo,0
+yummy,0
+zealous,0
+rhyme,0
+rhymes,0
+nursery,0
+lullaby,0
+singalong,0
+baby shark,0
+cartoon,0
+storybook,0
+playtime,0
+fun,0
+games,0
+learning,0
+dance,0
+music,0
+smiling,0
+puppets,0
+happy tunes,0
+playing,0
+running,0
+jumping,0
+drawing,0
+singing,0
+dancing,0
+laughing,0
+helping,0
+sharing,0
+reading,0
+writing,0
+building,0
+exploring,0
+creating,0
+painting,0
+smiling,0
+swimming,0
+climbing,0
+skipping,0
+learning,0
+growing,0
+caring,0
+hugging,0
+cheering,0
+cryptocurrency,200
+crypto,200
+cryptocurrencies,200
+testicles,100
+like,0
+liking,0
